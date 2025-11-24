@@ -1,5 +1,7 @@
 # HEM-FEN: A Hierarchical Encoder-Mixer-based Feature Extraction Network for Remote Sensing Image Segmentation
 
+> The complete model code will be publicly released after the paper is accepted for publication.
+
 <p align="center">
     <img src="./HEM-FEN.png">
 </p>
