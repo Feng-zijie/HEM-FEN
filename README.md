@@ -9,11 +9,7 @@
 Figure 1: Overview architecture of HEM-FEN, consisting of four modules: (1) a Dual-Scale Edge-Aware Attention hierarchical encoder (DSEAA encoder); (2) a hierarchical encoder based on the Mamba-Inspired Linear Attention (MILA); (3) a Dense Connected Feature Enhancement (DCFE) mixer is introduced for combining the local and global features from both encoders across hierarchical layers; (4) a lightweight decoder that fuses the multi-scale features from the cross-encoder fusion module to predict the lake mask accurately.
 
 
-The code is based on [MMSegmentaion v0.30.0](https://github.com/open-mmlab/MMSegmentation/tree/v0.30.0).
-
 ## Installation
-
-For install and data preparation, please refer to the guidelines in [MMSegmentation v0.30.0](https://github.com/open-mmlab/mmsegmentation/tree/v0.30.0).
 
 An example (works for me): ```CUDA 10.1``` and  ```pytorch 1.6.0``` 
 
